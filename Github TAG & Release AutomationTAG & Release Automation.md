@@ -1,5 +1,8 @@
-#conventional-commit #github #workflows #node 
-
+---
+title: "Github TAG & Release AutomationTAG & Release Automation"
+date: "2023-06-26"
+tags: ["conventional commits", "worflows", "github", "github actions", "node.js"]
+---
 
 ## 깃허브 워크플로우를 사용한 앱 버젼 관리
 
